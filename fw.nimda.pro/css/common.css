@@ -1,0 +1,16 @@
+html,body{height:90%;}
+body{background:#2a1505 url(../pic/back.jpg) 50% 0;}
+
+div.container { width: 50%; margin-left: auto; margin-right: auto}
+
+div.txt {
+
+height: 20px;
+border: 1px solid;
+}
+div.box {
+
+background-color: ;
+display: none;
+border: 1px solid;
+}
