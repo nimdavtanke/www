@@ -1,0 +1,26 @@
+{
+	"name": "stoker/ads",
+	"type": "phpbb-extension",
+	"description": "Forum Ads",
+	"homepage": "http://www.phpbb3bbcodes.com",
+	"version": "1.0.0",
+	"keywords": ["phpbb", "extension", "ads"],
+	"license": "GPL-2.0",
+	"authors": [
+		{
+			"name": "Ulrik Christensen",
+			"username": "Stoker 4.0",
+			"email": "phpbb3bbcodes@gmail.com",
+			"role": "Extension Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.3.3"
+	},
+	"extra": {
+		"display-name": "Topic Ads",
+		"soft-require": {
+			"phpbb/phpbb": "3.1.1"
+		}
+	}
+}

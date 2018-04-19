@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport">
+    <title>
+      The Google Anita Borg Memorial Scholarship
+    </title>
+    <link href="default.css" rel="stylesheet">
+    <script src="//www.google.com/js/google.js">
+</script>
+    <script>
+new gweb.analytics.AutoTrack({
+          profile: 'UA-5053392-3'
+        });
+    </script>
+    <script src="//www.google.com/js/twisties.js">
+</script>
+    <script src="//maps.google.com/maps/api/js?sensor=false">
+</script>
+    <script>
+var markers = {
+      'Africa': {lat: -5.3, lng: 27, url: 'http://www.google.com/anitaborg/emea/'},
+      'Australia': {lat: -25, lng: 133.4, url: 'http://www.google.com.au/intl/en/anitaborg/'},
+      'Europe': {lat: 51, lng: 12, url: 'http://www.google.com/anitaborg/emea/'},
+      'Canada': {lat: 58.6, lng: -107.5, url: 'http://www.google.ca/intl/en/anitaborg/'},
+      'India': {lat: 20.5, lng: 78.9, url: 'http://www.google.co.in/anitaborg/'},
+      'Middle East': {lat: 30, lng: 45, url: 'http://www.google.com/anitaborg/emea/'},
+      'New Zealand': {lat: -40.9, lng: 174.89, url: 'http://www.google.com.au/intl/en/anitaborg/'},
+      'United States': {lat: 35.3, lng: -102.04, url: 'us/'},
+      'Asia': {lat: 36.3, lng: 132, url: 'apac/'},
+      'Taiwan': {lat: 23.7, lng: 120.96, url: 'http://www.google.com.tw/anitaborg/'},
+    };
+
+    function initialize() {
+      var latlng = new google.maps.LatLng(0,0);
+      var myOptions = {
+        zoom: 1,
+        center: latlng,
+        disableDefaultUI: true,
+        mapTypeId: google.maps.MapTypeId.TERRAIN
+      };
+
+      var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+
+      for (var m in markers) {
+        var markerTitle = m;
+        var markerObj = markers[markerTitle];
+        var marker = new google.maps.Marker({
+          position: new google.maps.LatLng(markerObj.lat, markerObj.lng),
+          map: map,
+          title: markerTitle
+        });
+        google.maps.event.addListener(marker, 'click', (function(url) {
+          return function() {
+            window.location.href = url;
+          };
+        })(markerObj.url));
+      }
+    }
+    </script>
+    <style>
+div.c1 {width: 100%; height: 340px}
+    </style>
+  </head>
+  <body class="compact">
+    <h1>
+      <a href="/"><img alt="Google" src="//www.google.com/images/logos/google_logo_41.png"></a> The
+      Google Anita Borg Memorial Scholarship
+    </h1>
+    <div class="intro">
+      <img alt="Anita Borg" class="portrait" src="borg_portrait.jpg">
+      <blockquote class="intro">
+        “Her capacity to mix technical expertise and a relentless vision inspired, motivated and
+        moved women to embrace technology instead of avoiding or ignoring it. She has touched and
+        changed the lives of countless women in the computing fields and beyond.”
+      </blockquote>
+    </div>
+    <h2>
+      Dr. Anita Borg (1949–2003)
+    </h2>
+    <p>
+      Anita Borg believed that technology affects all aspects of our economic, political, social
+      and personal lives. A technology rebel with a cause, in her life she fought tirelessly to
+      ensure that technology’s impact would be a positive one. It was this vision that inspired
+      Anita in 1997 to found the Institute for Women and Technology. Today this organization
+      continues on her legacy and bears her name, The Anita Borg Institute for Women and Technology
+      (<a href="http://www.anitaborg.org">www.anitaborg.org</a>).
+    </p>
+    <p class="twisty">
+      <span>Dr. Anita Borg</span>
+    </p>
+    <div>
+      <p>
+        Her capacity to mix technical expertise and a relentless vision inspired, motivated and
+        moved women to embrace technology instead of avoiding or ignoring it. She has touched and
+        changed the lives of countless women in the computing fields and beyond. She is responsible
+        for including women in the technological revolution – not as bystanders, but as active
+        participants and leaders. In 1987, prior to founding the Institute, Anita began an email
+        online community called Systers which today has 3,000 members from all over the world. In
+        1994, Anita co-founded the Grace Hopper Celebration of Women in Computing Conference. The
+        Grace Hopper Celebration has grown to become the largest gathering of women in computing in
+        the world. The Anita Borg Institute is the umbrella organization for both of these ongoing
+        programs as well as the Virtual Development Center, TechLeaders and a host of other dynamic
+        partnerships and collaborations that embrace Anita’s ongoing vision.
+      </p>
+      <p>
+        During her life, Anita’s commitment to her vision and expertise in the field gained her
+        significant recognition. In 1999 President Clinton appointed her to the Commission on the
+        Advancement of Women and Minorities in Science, Engineering, and Technology. In 2002, she
+        received the Heinz Award for Technology, the Economy, and Employment.
+      </p>
+      <p>
+        Born Anita Borg Naffz on January 17th, 1949 in Chicago, Illinois, she grew up in Palatine,
+        Illinois, Kaneohe, Hawaii, and Mukilteo, Washington. Anita found her way to a computer
+        keyboard in her mid-20s. She received a Ph.D. in computer science from the Courant
+        Institute at New York University in 1981. She then embarked on a brilliant research career
+        for some of industry’s commercial giants including, Nixdorf, Digital/Compaq’s Western
+        Research Lab and Xerox PARC.
+      </p>
+    </div>
+    <h2>
+      The Scholarship
+    </h2>
+    <p>
+      Dr. Anita Borg devoted her adult life to revolutionizing the way we think about technology
+      and dismantling barriers that keep women and minorities from entering computing and
+      technology fields. Her combination of technical expertise and fearless vision continues to
+      inspire and motivate countless women to become active participants and leaders in creating
+      technology.
+    </p>
+    <p>
+      In her honor, Google is proud to honor Anita’s memory and support women in technology with
+      the Google Anita Borg Memorial Scholarship. Google hopes to encourage women to excel in
+      computing and technology and become active role models and leaders in the field.
+    </p>
+    <p>
+      Google Anita Borg Scholarship recipients will each receive a financial award for the academic
+      year. A group of female undergraduate and graduate students will be chosen from the applicant
+      pool, and scholarships will be awarded based on the strength of each candidate’s academic
+      background and demonstrated leadership.
+    </p>
+    <p>
+      In addition, all scholarship recipients and finalists will be invited to attend a retreat at
+      Google. We know how important a supportive peer network can be for a student’s success. The
+      retreat will include workshops, speakers, panelists, breakout sessions and social activities
+      scheduled over a couple of days.
+    </p>
+    <h2>
+      Choose your location and apply for a Scholarship
+    </h2>
+    <div class="c1" id="map_canvas"></div>
+    <p>
+      Google Anita Borg Memorial Scholarships are offered in <a href="emea/">Africa</a>, <a href=
+      "apac/">Asia Pacific</a>, <a href="http://www.google.ca/intl/en/anitaborg/">Canada</a>,
+      China, <a href="emea/">Europe</a>, <a href="emea/">Middle East</a>, and the <a href=
+      "us/">United States</a>. To find out more about your regional conditions, please visit one of
+      the region-specific pages.
+    </p>
+    <h2>
+      Other Scholarships
+    </h2>
+    <p>
+      Interested in other scholarship opportunities? Check out our <a href=
+      "//www.google.com/edu/students/scholarships.html">Google Scholarships Homepage</a>.
+    </p>
+    <div id="about">
+      <a href="/">Google</a> - <a href="//www.google.com">Home</a> - <a href=
+      "//www.google.com/about.html">About Google</a> - <a href=
+      "//www.google.com/intl/en/policies/terms/regional.html">Terms of Service</a> - <a href=
+      "//www.google.com/intl/en/policies/terms/">Privacy Policy</a>
+    </div><script>
+initialize();
+    var twisties = new goog.ui.Twisties( {
+      enableFade: true,
+      classTwisty: 'twisty',
+      classCollapse: 'twistyExpand',
+      classExpand: 'twistyCollapse',
+      classCollapse: 'twistyExpand',
+      classExpand: 'twistyCollapse'
+    } );
+    </script>
+  </body>
+</html>

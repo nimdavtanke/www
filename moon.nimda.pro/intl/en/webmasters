@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html class="google" lang="en">
+  <head>
+
+    <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    </script>
+    <meta charset="utf-8">
+    <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport">
+    <title>
+      Webmasters – Google
+    </title>
+    <script src="//www.google.com/js/google.js">
+    </script>
+    <script>
+    new gweb.analytics.AutoTrack({profile:"UA-18009-2"});
+    </script>
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&amp;lang=en" rel=
+    "stylesheet">
+    <link href="/webmasters/css/default.css" rel="stylesheet">
+    <link href="//www.google.com/css/gweb/lightbox.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="maia-header" id="maia-header" role="banner">
+      <div class="maia-aux">
+        <h1>
+          <a href="//www.google.com/"><img alt="Google" src=
+          "//www.google.com/images/logos/google_logo_41.png"></a>
+        </h1>
+        <h2>
+          <a href="/webmasters/">Webmasters</a>
+        </h2><a class="maia-teleport" href="#content">Skip to content</a>
+      </div>
+    </div>
+    <div id="maia-main" role="main">
+      <div class="maia-teleport" id="content"></div>
+      <div id="stage">
+        <a class="lb" data-lightbox-height="422" data-lightbox-width="750" href=
+        "//www.youtube.com/v/SoxU5kz15Kc?autoplay=1"><img alt="Google Search Console" src=
+        "images/stage.png"></a>
+        <h1 class="maia-super">
+          You want to be found on the web. We want to&nbsp;help.
+        </h1>
+        <p>
+          Get data, tools and diagnostics for a healthy, Google-friendly&nbsp;site.
+        </p>
+        <p>
+          <a class="maia-button" href=
+          "http://www.google.com/webmasters/tools/?hl=en#utm_source=en-wmcmsg&amp;utm_medium=wmcmsg&amp;utm_campaign=bm">
+          Sign in to Search Console</a>
+        </p>
+      </div>
+      <div class="maia-cols">
+        <div class="maia-col-4">
+          <div class="promo">
+            <a href="http://www.google.com/webmasters/tools/?hl=en"><img alt="Get started" src=
+            "//www.google.com/images/icons/product/webmaster_tools-128.png"></a>
+          </div>
+          <h2>
+            Search Console
+          </h2>
+          <p>
+            Understand and improve your site in Google&nbsp;Search.<br>
+            <a href="http://www.google.com/webmasters/tools/?hl=en">Get&nbsp;started</a>
+          </p>
+        </div>
+        <div class="maia-col-4">
+          <div class="promo">
+            <a href="https://support.google.com/webmasters/answer/6001102?hl=en"><img alt=
+            "Learn how" src="//www.google.com/images/icons/feature/books-lb128.png"></a>
+          </div>
+          <h2>
+            Webmaster Education
+          </h2>
+          <p>
+            Videos and articles to help you get found on&nbsp;Google.<br>
+            <a href=
+            "https://support.google.com/webmasters/answer/6001102?hl=en">Learn&nbsp;more</a>
+          </p>
+        </div>
+        <div class="maia-col-4">
+          <div class="promo">
+            <a href="http://support.google.com/webmasters/?hl=en"><img alt="Need help?" src=
+            "//www.google.com/images/icons/product/help-128.png"></a>
+          </div>
+          <h2>
+            Help Center
+          </h2>
+          <p>
+            Fix problems and find answers to your&nbsp;questions.<br>
+            <a href="http://support.google.com/webmasters/?hl=en">Get&nbsp;help</a>
+          </p>
+        </div>
+      </div>
+    </div>
+    <div id="maia-signature"></div>
+    <div class="maia-footer" id="maia-footer">
+      <div id="maia-footer-local">
+        <div class="maia-aux">
+          <div class="suez-sitemap suez-sitemap-compact">
+            <h3>
+              Webmaster resources
+            </h3>
+            <ul>
+              <li>
+                <a data-g-action="Webmaster resources" data-g-event="Footer" data-g-label=
+                "Guidelines" href=
+                "https://support.google.com/webmasters/bin/answer.py?hl=en&amp;answer=35769">Guidelines</a>
+              </li>
+              <li>
+                <a data-g-action="Webmaster resources" data-g-event="Footer" data-g-label="Help"
+                href="https://support.google.com/webmasters/?hl=en">Help</a>
+              </li>
+              <li>
+                <a data-g-action="Webmaster resources" data-g-event="Footer" data-g-label="Forum"
+                href=
+                "//groups.google.com/a/googleproductforums.com/forum/#!forum/webmasters">Forum</a>
+              </li>
+              <li>
+                <a data-g-action="Webmaster resources" data-g-event="Footer" data-g-label="Blog"
+                href="//googlewebmastercentral.blogspot.com/">Blog</a>
+              </li>
+              <li>
+                <a data-g-action="Webmaster resources" data-g-event="Footer" data-g-label="YouTube"
+                href="//www.youtube.com/user/GoogleWebmasterHelp">YouTube</a>
+              </li>
+            </ul>
+          </div>
+          <div id="suez-footer-univ">
+            <a href="../services/sitemap.html">Looking to grow your business? We can help.</a>
+          </div>
+          <script src="../services/js/sitemap-compact.min.js">
+          </script>
+        </div>
+      </div>
+      <div id="maia-footer-global">
+        <div class="maia-aux">
+          <ul>
+            <li>
+              <a href="/">Google</a>
+            </li>
+            <li>
+              <a href="/intl/en/about/">About Google</a>
+            </li>
+            <li>
+              <a href="/intl/en/policies/privacy/">Privacy</a>
+            </li>
+            <li>
+              <a href="/intl/en/policies/terms/">Terms</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <script src="//www.google.com/js/gweb/ui/lightbox.js">
+    </script> 
+    <script>
+    var stageTeaser = new gweb.ui.LightBox();
+    stageTeaser.init();
+    </script> 
+    <script src="//www.google.com/js/maia.js">
+    </script>
+  </body>
+</html>

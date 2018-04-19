@@ -1,0 +1,38 @@
+.main_menu_div .main_menu, .main_menu_div .main_menu ul
+{
+list-style: inside none none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: 150px;	}
+
+.main_menu li
+{
+padding-top:4px;
+     font-size:14x;
+     text-transform:uppercase;
+                font-family:font;
+     float:left;	}
+
+.main_menu li.divider
+{
+margin-right:15px;
+}
+
+
+.main_menu li a
+{
+color: #d9a346;
+    font-size: 16px;
+}
+.main_menu li.selected a, .main_menu li:hover a
+{
+text-decoration:underline;	}
+	
+	@font-face{
+font-family: font;
+src: url(/f/AGFRIQR.eot),
+url(/f/AGFRIQR.otf),
+url(/f/AGFRIQR.ttf),
+url(/f/AGFRIQR.woff);
+}

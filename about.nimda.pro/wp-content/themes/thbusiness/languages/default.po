@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: thbusiness.1.0.4\n"
+"POT-Creation-Date: 2014-07-21 22:56+0530\n"
+"PO-Revision-Date: 2014-07-21 22:57+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: archive.php:27
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:30
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:33
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:36
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:39
+msgid "Asides"
+msgstr ""
+
+#: archive.php:42
+msgid "Galleries"
+msgstr ""
+
+#: archive.php:45
+msgid "Images"
+msgstr ""
+
+#: archive.php:48
+msgid "Videos"
+msgstr ""
+
+#: archive.php:51
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:54
+msgid "Links"
+msgstr ""
+
+#: archive.php:57
+msgid "Statuses"
+msgstr ""
+
+#: archive.php:60
+msgid "Audios"
+msgstr ""
+
+#: archive.php:63
+msgid "Chats"
+msgstr ""
+
+#: archive.php:66
+msgid "Archives"
+msgstr ""
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:18 content-single.php:25
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:26 content-single.php:45 content.php:58
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:16 content.php:16
+msgid "Leave a comment"
+msgstr ""
+
+#: content-single.php:16 content.php:16
+msgid "1 Comment"
+msgstr ""
+
+#: content-single.php:16 content.php:16
+msgid "% Comments"
+msgstr ""
+
+#: content-single.php:36 content.php:39 content.php:49
+msgid ", "
+msgstr ""
+
+#: content.php:30
+msgid "Read More &raquo;"
+msgstr ""
+
+#: footer.php:51
+#, php-format
+msgid ""
+"Theme: THBusiness by <a href=\"%1$s\" rel=\"designer\">ThemezHut.Com</a>."
+msgstr ""
+
+#: footer.php:56
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:56
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: functions.php:42
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:81
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:90
+msgid "Business Template Top Area"
+msgstr ""
+
+#: functions.php:99
+msgid "Business Template Left Area"
+msgstr ""
+
+#: functions.php:108
+msgid "Business Template Right Area"
+msgstr ""
+
+#: functions.php:117
+msgid "Business Template Bottom Area"
+msgstr ""
+
+#: functions.php:126
+msgid "Footer Left Sidebar"
+msgstr ""
+
+#: functions.php:135
+msgid "Footer Mid Sidebar"
+msgstr ""
+
+#: functions.php:144
+msgid "Footer Right Sidebar"
+msgstr ""
+
+#: options.php:34
+msgid "General"
+msgstr ""
+
+#: options.php:40
+msgid "Header Logo"
+msgstr ""
+
+#: options.php:41
+msgid ""
+"Upload logo for your header.Most suitable dimensions are 293px wide and 87px "
+"height."
+msgstr ""
+
+#: options.php:48
+msgid "Header Logo Only"
+msgstr ""
+
+#: options.php:49
+msgid "Header Text Only"
+msgstr ""
+
+#: options.php:50
+msgid "Disable"
+msgstr ""
+
+#: options.php:54
+msgid "Show"
+msgstr ""
+
+#: options.php:55
+msgid "Choose the option that you want."
+msgstr ""
+
+#: options.php:64
+msgid "Activate favicon"
+msgstr ""
+
+#: options.php:65
+msgid "Check to activate favicon. Upload fav icon from below option"
+msgstr ""
+
+#: options.php:73
+msgid "Upload favicon"
+msgstr ""
+
+#: options.php:74
+msgid "Upload favicon for your site."
+msgstr ""
+
+#: options.php:81
+msgid "Left Footer Text"
+msgstr ""
+
+#: options.php:82
+msgid ""
+"Text that displays in the left bottom footer of the website.(Copyright "
+"Container)"
+msgstr ""
+
+#: options.php:90
+msgid "Slider"
+msgstr ""
+
+#: options.php:96
+msgid "Activate slider"
+msgstr ""
+
+#: options.php:97
+msgid "Check to activate slider."
+msgstr ""
+
+#: options.php:106
+#, php-format
+msgid "Image Upload #%1$s"
+msgstr ""
+
+#: options.php:107
+msgid "Upload slider image."
+msgstr ""
+
+#: options.php:112
+#, php-format
+msgid "Slider Title %1$s"
+msgstr ""
+
+#: options.php:113
+msgid "Enter title for your slider."
+msgstr ""
+
+#: options.php:119
+#, php-format
+msgid "Slider Description %1$s"
+msgstr ""
+
+#: options.php:120
+msgid "Enter your slider description."
+msgstr ""
+
+#: options.php:126
+#, php-format
+msgid "Slider redirect link %1$s"
+msgstr ""
+
+#: options.php:127
+msgid "Enter link to redirect when clicked the button."
+msgstr ""
+
+#: options.php:133
+#, php-format
+msgid "Slider redirect link button text %1$s"
+msgstr ""
+
+#: options.php:134
+msgid "Enter text for button."
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/extras.php:63
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/template-tags.php:45
+msgid "<span class=\"meta-nav-prev\"></span> Previous"
+msgstr ""
+
+#: inc/template-tags.php:46
+msgid "Next <span class=\"meta-nav-next\"></span>"
+msgstr ""
+
+#: inc/template-tags.php:54
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:76
+msgid "Post navigation"
+msgstr ""
+
+#: inc/widgets.php:16
+msgid "THBusiness Services Widget"
+msgstr ""
+
+#: inc/widgets.php:17
+msgid "Displays pages as services. Best for Business Template Top/Bottom Area."
+msgstr ""
+
+#: inc/widgets.php:36
+msgid ""
+"If there is not an icon it will display the featured image of the page as "
+"the icon.<br /> Give the name of the font awesome icon to the Icon input "
+"field.You can find the icon names from the readme.txt <br /> eg: fa-angle-"
+"double-up"
+msgstr ""
+
+#: inc/widgets.php:40
+msgid "Icon "
+msgstr ""
+
+#: inc/widgets.php:44
+msgid "Page "
+msgstr ""
+
+#: inc/widgets.php:123 inc/widgets.php:471
+msgid "Read More"
+msgstr ""
+
+#: inc/widgets.php:157
+msgid "THBusiness Recent Work Widget"
+msgstr ""
+
+#: inc/widgets.php:158
+msgid ""
+"Displays pages as recent work.Featured image of the page will show up first. "
+"Best for Business Template Top/Bottom Area."
+msgstr ""
+
+#: inc/widgets.php:183
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets.php:188
+msgid "Display page titles."
+msgstr ""
+
+#: inc/widgets.php:192
+msgid "Display page excerpts."
+msgstr ""
+
+#: inc/widgets.php:197 inc/widgets.php:422
+msgid "Page"
+msgstr ""
+
+#: inc/widgets.php:297
+msgid "THBusiness Call To Action"
+msgstr ""
+
+#: inc/widgets.php:298
+msgid ""
+"Displays a call to action widget.Best for Business Template Top/Bottom Area."
+msgstr ""
+
+#: inc/widgets.php:314
+msgid "Call to Action Main Text"
+msgstr ""
+
+#: inc/widgets.php:316
+msgid "Call to Action Additional Text"
+msgstr ""
+
+#: inc/widgets.php:319
+msgid "Button Text:"
+msgstr ""
+
+#: inc/widgets.php:323
+msgid "Button Redirect Link:"
+msgstr ""
+
+#: inc/widgets.php:404
+msgid "THBusiness Single Page Widget"
+msgstr ""
+
+#: inc/widgets.php:405
+msgid "Displays a single Page along with the featured image."
+msgstr ""
+
+#: inc/widgets.php:416 inc/widgets.php:515 inc/widgets.php:639
+msgid "Title"
+msgstr ""
+
+#: inc/widgets.php:419
+msgid "Displays the page title if this title field is empty"
+msgstr ""
+
+#: inc/widgets.php:426
+msgid "Remove Featured image"
+msgstr ""
+
+#: inc/widgets.php:498
+msgid "THBusiness Testimonial"
+msgstr ""
+
+#: inc/widgets.php:499
+msgid "Displays a testimonial.Best for Business Template Left/Right Area."
+msgstr ""
+
+#: inc/widgets.php:519
+msgid "Description"
+msgstr ""
+
+#: inc/widgets.php:523
+msgid "Name"
+msgstr ""
+
+#: inc/widgets.php:527
+msgid "designation"
+msgstr ""
+
+#: inc/widgets.php:531
+msgid "Company Name"
+msgstr ""
+
+#: inc/widgets.php:535
+msgid "Company Url"
+msgstr ""
+
+#: inc/widgets.php:539
+msgid "Image URL"
+msgstr ""
+
+#: inc/widgets.php:611
+msgid "THBusiness Featured Images"
+msgstr ""
+
+#: inc/widgets.php:612
+msgid ""
+"Displays images.You can show customer logos or any other images by this "
+"widget.Best for Business Template Top/Bottom Area."
+msgstr ""
+
+#: inc/widgets.php:645
+msgid "Image Link "
+msgstr ""
+
+#: inc/widgets.php:649
+msgid "Image Redirect Link "
+msgstr ""
+
+#: inc/admin/options/includes/class-options-framework-admin.php:90
+#: inc/admin/options/includes/class-options-framework-admin.php:91
+msgid "Theme Options"
+msgstr ""
+
+#: inc/admin/options/includes/class-options-framework-admin.php:186
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: inc/admin/options/includes/class-options-framework-admin.php:217
+msgid "Default options restored."
+msgstr ""
+
+#: inc/admin/options/includes/class-options-framework-admin.php:271
+msgid "Options saved."
+msgstr ""
+
+#: inc/admin/options/includes/class-options-media-uploader.php:63
+msgid "No file chosen"
+msgstr ""
+
+#: inc/admin/options/includes/class-options-media-uploader.php:66
+#: inc/admin/options/includes/class-options-media-uploader.php:119
+msgid "Upload"
+msgstr ""
+
+#: inc/admin/options/includes/class-options-media-uploader.php:68
+#: inc/admin/options/includes/class-options-media-uploader.php:120
+msgid "Remove"
+msgstr ""
+
+#: inc/admin/options/includes/class-options-media-uploader.php:71
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/admin/options/includes/class-options-media-uploader.php:95
+msgid "View File"
+msgstr ""
+
+#: inc/admin/options/includes/class-options-sanitization.php:241
+msgid "No Repeat"
+msgstr ""
+
+#: inc/admin/options/includes/class-options-sanitization.php:242
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/admin/options/includes/class-options-sanitization.php:243
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/admin/options/includes/class-options-sanitization.php:244
+msgid "Repeat All"
+msgstr ""
+
+#: inc/admin/options/includes/class-options-sanitization.php:257
+msgid "Top Left"
+msgstr ""
+
+#: inc/admin/options/includes/class-options-sanitization.php:258
+msgid "Top Center"
+msgstr ""
+
+#: inc/admin/options/includes/class-options-sanitization.php:259
+msgid "Top Right"
+msgstr ""
+
+#: inc/admin/options/includes/class-options-sanitization.php:260
+msgid "Middle Left"
+msgstr ""
+
+#: inc/admin/options/includes/class-options-sanitization.php:261
+msgid "Middle Center"
+msgstr ""
+
+#: inc/admin/options/includes/class-options-sanitization.php:262
+msgid "Middle Right"
+msgstr ""
+
+#: inc/admin/options/includes/class-options-sanitization.php:263
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/admin/options/includes/class-options-sanitization.php:264
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/admin/options/includes/class-options-sanitization.php:265
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/admin/options/includes/class-options-sanitization.php:278
+msgid "Scroll Normally"
+msgstr ""
+
+#: inc/admin/options/includes/class-options-sanitization.php:279
+msgid "Fixed in Place"
+msgstr ""
+
+#: inc/admin/options/includes/class-options-sanitization.php:353
+msgid "Normal"
+msgstr ""
+
+#: inc/admin/options/includes/class-options-sanitization.php:354
+msgid "Italic"
+msgstr ""
+
+#: inc/admin/options/includes/class-options-sanitization.php:355
+msgid "Bold"
+msgstr ""
+
+#: inc/admin/options/includes/class-options-sanitization.php:356
+msgid "Bold Italic"
+msgstr ""

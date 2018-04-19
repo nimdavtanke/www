@@ -1,0 +1,30 @@
+*html #sponsor{background:none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='i/ul.png',sizingMethod='scale');}
+*html #sponsor a{position:relative;}
+
+*html #ksan{background:none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='i/ul.png',sizingMethod='scale');}
+*html #ksan a{position:relative;}
+
+*html #content{zoom:1;}
+*html #content .in{zoom:1;}
+*html #content .block{zoom:1;}
+
+*html .button a{position:relative;}
+
+*html #content .ringtones{background:none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='i/title/ringtones.png',sizingMethod='crop');}
+*html #content .music{background:none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='i/title/music.png',sizingMethod='crop');}
+*html #content .desktop{background:none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='i/title/desktop.png',sizingMethod='crop');}
+*html #content .feedback{background:none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='i/title/feedback.png',sizingMethod='crop');}
+
+*html .game{background:none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='i/game.png',sizingMethod='crop');}
+*html .send{background:none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='i/send.png',sizingMethod='crop');}
+
+.ringtones li{position:relative;}
+.ringtones li div{position:absolute;width:100%;top:50%;left:0;}
+.ringtones li span{position:relative;top:-50%;}
+
+*html #content .ringtones .person1{background:none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='i/person/1.png',sizingMethod='crop');}
+*html #content .ringtones .person2{background:none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='i/person/2.png',sizingMethod='crop');}
+*html #content .ringtones .person3{background:none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='i/person/3.png',sizingMethod='crop');}
+*html #content .ringtones .person4{background:none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='i/person/4.png',sizingMethod='crop');}
+*html #content .ringtones .person5{background:none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='i/person/5.png',sizingMethod='crop');}
+*html #content .ringtones .person6{background:none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='i/person/6.png',sizingMethod='crop');}

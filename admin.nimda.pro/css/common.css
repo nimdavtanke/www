@@ -1,0 +1,86 @@
+html,body{height:100%;}
+body{background:#2a1505 url(../i/background.gif) 50% 0;}
+
+body,a,td,textarea,input,select{font:11px tahoma,arial,helvetica,sans-serif;color:#000;}
+a{color:#01325c;}
+
+table{border-collapse:collapse;}
+img,a img{border:0;}
+button{background:none;border:0;cursor:pointer;}
+.clear{clear:both;overflow:hidden;height:1px;}
+
+*{margin:0;padding:0;}
+*:focus{outline:none;}
+
+#container,#container td{height:100%;}
+#container{width:100%;}
+#container td{text-align:center;vertical-align:middle;}
+
+#main{position:relative;width:800px;margin:0 auto;text-align:left;}
+#main td{text-align:left;}
+
+#flash{margin:20px 0 0;width:800px;height:600px;overflow:hidden;}
+
+#content{margin:20px 0 0;border:11px solid #172e33;background:url(../i/content.jpg) repeat-y 50% 0;}
+#content .in{overflow:hidden;padding:30px 30px 60px 70px;background:url(../i/content-in.jpg) no-repeat;}
+
+.button{display:block;width:125px;height:40px;}
+.button a{display:block;height:100%;}
+
+.game{background:url(../i/game.png) no-repeat;}
+.send{background:url(../i/send.png) no-repeat;}
+
+#content .block{position:relative;padding:50px 0 40px;background-position:0 0;background-repeat:no-repeat;}
+
+#content .ringtones{padding:60px 0 0;background-image:url(../i/title/ringtones.png);}
+#content .ringtones .game{float:right;margin:-50px 0 0;}
+
+#content .ringtones ul{}
+#content .ringtones li{display:table;list-style:none;float:left;width:33%;height:102px;margin:0 0 35px;background-position:0 0;background-repeat:no-repeat;}
+#content .ringtones li div{display:table-cell;vertical-align:middle;}
+#content .ringtones li span{display:block;padding:0 0 0 105px;}
+#content .ringtones li,#content .ringtones li a{line-height:160%;}
+
+#content .ringtones .person1{background-image:url(../i/person/1.png);}
+#content .ringtones .person2{background-image:url(../i/person/2.png);}
+#content .ringtones .person3{background-image:url(../i/person/3.png);}
+#content .ringtones .person4{background-image:url(../i/person/4.png);}
+#content .ringtones .person5{background-image:url(../i/person/5.png);}
+#content .ringtones .person6{background-image:url(../i/person/6.png);}
+
+#content .music{clear:left;float:left;width:340px;background-image:url(../i/title/music.png);}
+
+#content .desktop{clear:left;float:left;width:340px;background-image:url(../i/title/desktop.png);}
+#content .desktop td img{margin:0 20px 0 0;}
+#content .desktop td,#content .desktop td a{line-height:160%;}
+
+#content .feedback{clear:right;float:right;width:300px;background-image:url(../i/title/feedback.png);}
+#content .feedback label{float:left;padding:0 8px 5px 0;}
+#content .feedback .need label{background:url(../i/need.gif) no-repeat 100% 0;}
+#content .feedback input,#content .feedback textarea{clear:both;width:290px;margin:0 0 10px;padding:2px 4px 4px;background:#c2b5a7;border:1px solid #726457;}
+#content .feedback textarea{overflow:auto;height:12em;}
+#content .feedback button{margin:5px 0 0;}
+
+#bottom{height:120px;}
+#bottom,#bottom a{color:#d4d4d4;}
+#bottom a:hover{color:#fff;}
+
+#sponsor{float:left;overflow:hidden;height:38px;margin:10px 0 0;background:url(../i/ul.png);list-style:none;overflow:hidden;}
+#sponsor li{float:left;height:30px;margin:4px 1px 0 -1px;padding:0 10px;border-left:1px solid #6f6357;background-position:50% 50%;background-repeat:no-repeat;}
+#sponsor li a{display:block;width:36px;height:100%;}
+
+#sponsor .li1{background-image:url(../i/sponsor1.gif);}
+#sponsor .li2{background-image:url(../i/sponsor2.gif);}
+
+#menu{float:right;margin:10px 0 20px;list-style:none;}
+#menu li{float:left;height:23px;margin:0 2px 0 4px;background-position:50% 50%;background-repeat:no-repeat;}
+#menu li a{display:block;height:100%;}
+
+#menu .li0{width:126px;background-image:url(../i/menu0.gif);}
+#menu .li1{width:128px;background-image:url(../i/menu1.gif);}
+#menu .li2{width:136px;background-image:url(../i/menu2.gif);}
+#menu .li3{width:154px;background-image:url(../i/menu3.gif);}
+
+#ksan{float:right;clear:right;margin:20px 2px 20px 0;padding:4px 15px;background:url(../i/ul.png);}
+#ksan,#ksan a{line-height:20px;}
+#ksan a{display:inline-block;height:20px;padding:0 0 0 20px;text-decoration:none;background:url(../i/ksan.gif) no-repeat 0 50%;}

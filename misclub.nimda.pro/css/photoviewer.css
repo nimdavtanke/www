@@ -1,0 +1,66 @@
+.photo_top_corner_l
+{
+position:absolute;
+background:url(/images/design/photoview/r_t_l.png) no-repeat top left;
+width:20px;
+height:20px;
+left:-20px;
+top:-20px;
+	}
+	.photo_top_corner_r
+{
+position:absolute;
+background:url(/images/design/photoview/r_t_r.png) no-repeat top left;
+width:20px;
+height:20px;
+right:-20px;
+top:-20px;
+	}
+
+
+.photo_bottom_corner_l
+{
+position:absolute;
+background:url(/images/design/photoview/r_b_l.png) no-repeat top left;
+width:20px;
+height:20px;
+left:-20px;
+bottom:-20px;
+	}
+	.photo_bottom_corner_r
+{
+position:absolute;
+background:url(/images/design/photoview/r_b_r.png) no-repeat top left;
+width:20px;
+height:20px;
+right:-20px;
+bottom:-20px;
+	}
+
+
+.photo_top_bottom
+{
+position:absolute;
+border-top:1px solid #000000;
+border-bottom:1px solid #000000;
+height:100%;
+width:100%;
+top:-20px;
+padding-bottom:38px;
+background:#ffffff;
+z-index:370px;
+	}
+
+
+.photo_left_right
+{
+position:absolute;
+border-left:1px solid #000000;
+border-right:1px solid #000000;
+height:100%;
+width:100%;
+left:-20px;
+padding-right:38px;
+background:#ffffff;
+z-index:370px;
+	}

@@ -1,0 +1,42 @@
+<?php
+$carousel = "";
+if ($m_id==$options['index_id']){
+	$q ="SELECT * FROM photos WHERE block_id='32'";
+				$do = doquery($q);
+					while ($res=mysql_fetch_assoc($do)){
+					$url = build_url($res['id']);
+      			$items[] = "<li cat_id=\"$res[id]\">
+      			<img src='/photogallery/thumbs/$res[photo].jpg' border='0' />
+      			</li>";
+						}
+
+						$carousel = "
+	<div class=\"carousel-cont\">
+	<ul class=\"carousel\">";
+	$carousel.= implode("",$items);
+	$carousel.= "
+
+		</ul>
+	</div>
+
+	<script language='javascript' src='/js/jquery.event.drag.js'></script>
+	<script language='javascript' src='/js/jquery.event.drop.js'></script>
+	<script language=\"javascript\">
+$(document).ready(function(){
+    	$('.carousel').roundabout(
+	{
+	enableDrag:true,
+	minScale: 0.2,
+	tilt: -7,
+	minOpacity:1,
+	clickToFocusCallback: function(){}
+		}
+	);
+     setInterval(function() {
+					$('.carousel').roundabout('animateToNextChild');
+				}, 5000);
+	});
+	</script>
+	";
+	}
+?>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>NIMDA Group Ltd.</title>
+
+        <link href="/css/style.css" rel="stylesheet" media="all" />
+    </head>
+    <body id="body">
+    <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-20022567-13']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    </script>
+        <canvas id="worldCanvas" width="840" height="840"></canvas>
+        <script src="/js/helpers.js" type="text/javascript"></script>
+        <script src="/js/content/alliance-names.js" type="text/javascript"></script>
+        <script src="/js/content/nicknames.js" type="text/javascript"></script>
+        <script src="/js/content/planet-names.js" type="text/javascript"></script>
+        <script src="/js/objects/element.js" type="text/javascript"></script>
+        <script src="/js/objects/option.js" type="text/javascript"></script>
+        <script src="/js/objects/popup.js" type="text/javascript"></script>
+        <script src="/js/objects/orbit.js" type="text/javascript"></script>
+        <script src="/js/objects/planet.js" type="text/javascript"></script>
+        <script src="/js/objects/star.js" type="text/javascript"></script>
+        <script src="/js/planets.js" type="text/javascript"></script>
+        <script src="/js/main.js" type="text/javascript"></script>
+        <iframe src="http://promodj.com/embed/5081229/big" width="100%" height="70" style="min-width: 450px; max-width: 900px" frameborder="0" allowfullscreen></iframe>
+    </body>
+</html>

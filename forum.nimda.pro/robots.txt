@@ -1,0 +1,11 @@
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/orig.html
+#
+# For syntax checking, see:
+# http://www.sxw.org.uk/computing/robots/check.html
+#
+# All right reserved @2002-2015 NIMDA Group Ltd.
+#
+User-agent: *
+
+Sitemap: https://forum.nimda.pro/sitemap.xml

@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html class="no-js" data-geo-code="ALL" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width,initial-scale=1.0" name="viewport">
+    <title>
+      Nexus – Google
+    </title>
+    <link href="//fonts.googleapis.com/css?family=RobotoDraft:100,300,400,500,700" rel=
+    "stylesheet">
+    <link href="../nexus/favicon.ico" rel="shortcut icon">
+    <link href="../nexus/new/css/site.min.css?c=27694809" rel="stylesheet">
+    <link href="https://www.google.com/intl/de_at/nexus/" hreflang="de-at" rel="alternate">
+    <link href="https://www.google.com/intl/en_au/nexus/" hreflang="en-au" rel="alternate">
+    <link href="https://www.google.com/intl/nl_be/nexus/" hreflang="nl-be" rel="alternate">
+    <link href="https://www.google.com/intl/en_ca/nexus/" hreflang="en-ca" rel="alternate">
+    <link href="https://www.google.com/intl/de_ch/nexus/" hreflang="de-ch" rel="alternate">
+    <link href="https://www.google.com/intl/zh-CN_cn/nexus/" hreflang="zh-CN-cn" rel="alternate">
+    <link href="https://www.google.com/intl/de_de/nexus/" hreflang="de-de" rel="alternate">
+    <link href="https://www.google.com/intl/da_dk/nexus/" hreflang="da-dk" rel="alternate">
+    <link href="https://www.google.com/intl/es_es/nexus/" hreflang="es-es" rel="alternate">
+    <link href="https://www.google.com/intl/fi_fi/nexus/" hreflang="fi-fi" rel="alternate">
+    <link href="https://www.google.com/intl/fr_fr/nexus/" hreflang="fr-fr" rel="alternate">
+    <link href="https://www.google.com/intl/zh-TW_hk/nexus/" hreflang="zh-TW-hk" rel="alternate">
+    <link href="https://www.google.com/intl/id_id/nexus/" hreflang="id-id" rel="alternate">
+    <link href="https://www.google.com/intl/en_ie/nexus/" hreflang="en-ie" rel="alternate">
+    <link href="https://www.google.com/intl/en_in/nexus/" hreflang="en-in" rel="alternate">
+    <link href="https://www.google.com/intl/it_it/nexus/" hreflang="it-it" rel="alternate">
+    <link href="https://www.google.com/intl/ja_jp/nexus/" hreflang="ja-jp" rel="alternate">
+    <link href="https://www.google.com/intl/es-419_mx/nexus/" hreflang="es-419-mx" rel="alternate">
+    <link href="https://www.google.com/intl/en_my/nexus/" hreflang="en-my" rel="alternate">
+    <link href="https://www.google.com/intl/nl_nl/nexus/" hreflang="nl-nl" rel="alternate">
+    <link href="https://www.google.com/intl/no_no/nexus/" hreflang="no-no" rel="alternate">
+    <link href="https://www.google.com/intl/en_nz/nexus/" hreflang="en-nz" rel="alternate">
+    <link href="https://www.google.com/intl/pt-PT_pt/nexus/" hreflang="pt-PT-pt" rel="alternate">
+    <link href="https://www.google.com/intl/sv_se/nexus/" hreflang="sv-se" rel="alternate">
+    <link href="https://www.google.com/intl/en_sg/nexus/" hreflang="en-sg" rel="alternate">
+    <link href="https://www.google.com/intl/th_th/nexus/" hreflang="th-th" rel="alternate">
+    <link href="https://www.google.com/intl/zh-TW_tw/nexus/" hreflang="zh-TW-tw" rel="alternate">
+    <link href="https://www.google.com/intl/en_uk/nexus/" hreflang="en-uk" rel="alternate">
+    <link href="https://www.google.com/intl/fr_be/nexus/" hreflang="fr-be" rel="alternate">
+    <link href="https://www.google.com/intl/fr_ca/nexus/" hreflang="fr-ca" rel="alternate">
+    <link href="https://www.google.com/intl/fr_ch/nexus/" hreflang="fr-ch" rel="alternate">
+    <link href="https://www.google.com/intl/it_ch/nexus/" hreflang="it-ch" rel="alternate">
+    <script src="https://apis.google.com/js/api.js">
+</script>
+    <script src="//www.gstatic.com/external_hosted/modernizr/modernizr.js">
+</script>
+    <meta content="Nexus – Google" property="og:title">
+    <meta content="Nexus. Designed for work, play, and you." name="description">
+    <meta content="Nexus. Designed for work, play, and you." property="og:description">
+    <meta content="//www.google.com/nexus/new/images/share.jpg" property="og:image">
+    <script src="//www.google.com/js/gweb/analytics/autotrack.js">
+</script>
+    <script>
+new gweb.analytics.AutoTrack({
+        profile: 'UA-19761916-1',
+        commands:[
+          ['_setDomainName', '.google.com'],
+          ['_setAllowLinker', true],
+          ['_setCustomVar', 1, 'Locale', 'None', 3]]
+      });
+    </script>
+    <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NVWQ8');
+    </script>
+    <style>
+iframe.c1 {display: none;}
+    </style>
+  </head>
+  <body class="nexus-layout index">
+    <header class="header-site" role="banner">
+      <div class="clearfix mobile-is-hidden">
+        <nav class="nav-product">
+          <ul>
+            <li>
+              <a class="nexus-home" href="../nexus/">Nexus</a>
+            </li>
+            <li>
+              <a class="nav-9" href="../nexus/9/">9</a>
+            </li>
+            <li>
+              <a class="nav-6" href="../nexus/6/">6</a>
+            </li>
+            <li>
+              <a class="nav-5" href="../nexus/5/">5</a>
+            </li>
+            <li>
+              <a class="nav-player" href="../nexus/player/">Player</a>
+            </li>
+          </ul>
+        </nav>
+        <div class="buy-link-container">
+          <a class="buy-link buy-link-trigger uppercase button blue" href="#">Buy Now</a>
+          <div class="buy-link-content">
+            <ul>
+              <li>
+                <a href="../nexus/9/#checkout">Nexus 9</a>
+              </li>
+              <li>
+                <a href="../nexus/6/#checkout">Nexus 6</a>
+              </li>
+              <li>
+                <a href="../nexus/5/#checkout">Nexus 5</a>
+              </li>
+              <li>
+                <a href="../nexus/player/#checkout">Nexus Player</a>
+              </li>
+            </ul>
+            <div class="buy-link-list"></div>
+            <div class="buy-modal">
+              <div class="lightbox-close js-lightbox-close">
+                &nbsp;
+              </div>
+              <div class="buy-modal-content js-responsive-image" data-breakpoints="350"
+              data-hasretina="true" data-lazyload="true" data-src=
+              "../nexus/new/images/nexus5/N5-buy-modal.jpg" id="nexus-5">
+                <div class="checkout-card border-box">
+                  <h2>
+                    Get your new Nexus 5
+                  </h2>
+                  <p>
+                    Check out in the Google Play store.
+                  </p><a href=
+                  "https://play.google.com/store/devices/details?id=nexus_5_black_16gb"><img alt=
+                  "Get it on Google Play" class="play-button" src=
+                  "../nexus/new/images/google-play-white.svg"></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div><a class="support-link uppercase" href=
+        "https://support.google.com/nexus/?hl=en#topic=3415518">Support</a>
+      </div>
+      <div class="mobile-header mobile-is-visible">
+        <div class="mobile-nav-toggle js-mobile-toggle"></div>
+        <div class="mobile-header-logo">
+          <a class="nexus-home-mobile" href="../nexus/">Nexus</a>
+        </div><a class="mobile-cart-toggle js-cart-toggle" href="#"></a>
+      </div>
+    </header>
+    <div class="mobile-nav mobile-is-visible js-mobile-nav">
+      <ul class="mobile-main">
+        <li>
+          <a href="../nexus/9/">Nexus 9</a>
+        </li>
+        <li>
+          <a href="../nexus/6/">Nexus 6</a>
+        </li>
+        <li>
+          <a href="../nexus/5/">Nexus 5</a>
+        </li>
+        <li>
+          <a href="../nexus/player/">Nexus Player</a>
+        </li>
+      </ul>
+      <ul class="mobile-sub">
+        <li>
+          <a href="https://support.google.com/nexus/?hl=en#topic=3415518">Support</a>
+        </li>
+        <li>
+          <a href="https://www.android.com">Android</a>
+        </li>
+        <li>
+          <a href="https://www.google.com/intl/en/policies/privacy/">Privacy &amp; Terms</a>
+        </li>
+      </ul>
+    </div>
+    <div class="cart-nav mobile-is-visible js-cart-nav">
+      <ul class="mobile-main">
+        <li>
+          <a href="../nexus/9/#checkout">Nexus 9</a>
+        </li>
+        <li>
+          <a href="../nexus/6/#checkout">Nexus 6</a>
+        </li>
+        <li>
+          <a href="../nexus/5/#checkout">Nexus 5</a>
+        </li>
+        <li>
+          <a href="../nexus/player/#checkout">Nexus Player</a>
+        </li>
+      </ul>
+    </div>
+    <div class="container index">
+      <div class="intro-panel margin-bottom ratio32-15 tablet-ratio16-9 js-intro-panel">
+        <div class="ratio-content landing-intro">
+          <div class="background js-responsive-image" data-breakpoints="767,1024,1200,1600,1900"
+          data-src="../nexus/new/images/landing/player/landing-hero.jpg">
+            <div class="intro-content">
+              <span class="intro-number">Nexus 9, 6,<br>
+              and Player</span>
+              <h1>
+                The first devices designed for Android Lollipop
+              </h1>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="nexus-panel mobile-is-visible">
+        <p class="white">
+          Designed for work, play, and you.
+        </p>
+      </div>
+      <div class="device-panels margin-bottom">
+        <a href="../nexus/9/">
+        <div class="device-panel ratio1-1 nexus9 js-nexus9-panel" data-delay="100">
+          <div class="device-panel-bg"></div>
+          <div class="ratio-content">
+            <div class="device-text">
+              <h2>
+                Nexus 9
+              </h2><span class="shop-now uppercase tablet-mobile-is-hidden">For movers and
+              makers</span> <span class="shop-now uppercase tablet-mobile-is-visible">Get
+              moving</span>
+            </div>
+          </div>
+        </div></a> <a href="../nexus/6/">
+        <div class="device-panel ratio1-1 nexus6 js-nexus6-panel" data-delay="240">
+          <div class="device-panel-bg"></div>
+          <div class="ratio-content">
+            <div class="device-text">
+              <h2>
+                Nexus 6
+              </h2><span class="shop-now uppercase tablet-mobile-is-hidden">More space to
+              explore</span> <span class="shop-now uppercase tablet-mobile-is-visible">Explore
+              more</span>
+            </div>
+          </div>
+        </div></a> <a href="../nexus/player/">
+        <div class="device-panel ratio1-1 nexusPlayer js-nexusPlayer-panel" data-delay="170">
+          <div class="device-panel-bg"></div>
+          <div class="ratio-content">
+            <div class="device-text">
+              <h2>
+                Nexus Player
+              </h2><span class="shop-now uppercase tablet-mobile-is-hidden">Entertainment tailored
+              for you</span> <span class="shop-now uppercase tablet-mobile-is-visible">Go
+              Play</span>
+            </div>
+          </div>
+        </div></a>
+      </div>
+      <div class="nexus-panel mobile-is-hidden">
+        <p class="white">
+          Nexus. Designed for work, play, and you.
+        </p>
+      </div>
+    </div>
+    <footer>
+      <div class="sign-up border-box">
+        <h3>
+          Keep me posted on the latest news from Nexus
+        </h3>
+        <div class="referral-form">
+          <div class="form-success js-form-title"></div>
+          <div class="error-message js-error-message"></div><iframe class="js-hidden-iframe c1" id=
+          "hidden-iframe" name="hidden-iframe"></iframe>
+          <form action=
+          "https://docs.google.com/a/google.com/forms/d/1xzUJNM7tPXYD2Q0g9WoCdG3Y9hyQMla8u5ccSyg33II/formResponse"
+          class="clearfix js-email-form" data-errormessage="Please enter valid email address"
+          data-thankyou="Thank you for subscribing." id="ss-form" method="post" name="ss-form"
+          target="hidden-iframe">
+            <div role="list">
+              <div class="form-row email">
+                <div class="ss-form-question errorbox-good" role="listitem">
+                  <div class="ss-item ss-text" dir="ltr">
+                    <div class="ss-form-entry">
+                      <label class="label-hidden ss-q-item-label" for=
+                      "entry_720180892"><span class="ss-q-title js-form-label">Your
+                      email</span></label> <input aria-label="Your email" aria-required="true"
+                      class="ss-q-short js-email-input" dir="auto" id="entry_720180892" name=
+                      "entry.720180892" placeholder="Your email" required="" title="" type="email"
+                      value="">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="form-row country">
+                <div class="ss-form-question errorbox-good" role="listitem">
+                  <div class="ss-item ss-text" dir="ltr">
+                    <div class="ss-form-entry">
+                      <label class="label-hidden ss-q-item-label" for=
+                      "entry_1114906143"><span class="ss-q-title js-form-label">Your
+                      country</span></label> <select aria-label="Your country" aria-required="true"
+                      class="ss-q-short js-country-input" dir="auto" id="entry_1114906143" name=
+                      "entry.1114906143" required="" title="">
+                        <option value="au">
+                          Australia
+                        </option>
+                        <option value="at">
+                          Austria
+                        </option>
+                        <option value="be">
+                          Belgium
+                        </option>
+                        <option value="ca">
+                          Canada
+                        </option>
+                        <option value="cn">
+                          China
+                        </option>
+                        <option value="dk">
+                          Denmark
+                        </option>
+                        <option value="fi">
+                          Finland
+                        </option>
+                        <option value="fr">
+                          France
+                        </option>
+                        <option value="de">
+                          Germany
+                        </option>
+                        <option value="hk">
+                          Hong Kong
+                        </option>
+                        <option value="in">
+                          India
+                        </option>
+                        <option value="id">
+                          Indonesia
+                        </option>
+                        <option value="ie">
+                          Ireland
+                        </option>
+                        <option value="it">
+                          Italy
+                        </option>
+                        <option value="jp">
+                          Japan
+                        </option>
+                        <option value="my">
+                          Malaysia
+                        </option>
+                        <option value="mx">
+                          Mexico
+                        </option>
+                        <option value="nl">
+                          Netherlands
+                        </option>
+                        <option value="nz">
+                          New Zealand
+                        </option>
+                        <option value="no">
+                          Norway
+                        </option>
+                        <option value="pt">
+                          Portugal
+                        </option>
+                        <option value="sg">
+                          Singapore
+                        </option>
+                        <option value="es">
+                          Spain
+                        </option>
+                        <option value="se">
+                          Sweden
+                        </option>
+                        <option value="ch">
+                          Switzerland
+                        </option>
+                        <option value="tw">
+                          Taiwan
+                        </option>
+                        <option value="th">
+                          Thailand
+                        </option>
+                        <option value="uk">
+                          United Kingdom
+                        </option>
+                        <option selected value="us">
+                          United States
+                        </option>
+                      </select>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="form-row checkbox clearfix">
+                <div class="ss-form-question errorbox-good" role="listitem">
+                  <div class="ss-item ss-item-required ss-checkbox" dir="ltr">
+                    <div class="ss-form-entry">
+                      <div class="ss-q-title">
+                        <label class="ss-q-item-label label-hidden" for="entry_995175041">Send me
+                        product updates</label>
+                      </div>
+                      <ul aria-label="Send me product updates" class=
+                      "ss-choices ss-choices-required" role="group">
+                        <li class="ss-choice-item">
+                          <label class="clearfix"><span class=
+                          "ss-choice-item-control goog-inline-block left"><input aria-required=
+                          "true" checked class="ss-q-checkbox" id="group_1913596321_1" name=
+                          "entry.1913596321" role="checkbox" type="checkbox" value="Yes"></span>
+                          <span class="ss-choice-label left">Please send me the latest news,
+                          announcements, offers, and other updates about Nexus. You may opt out of
+                          receiving emails at any time.</span></label>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div><input class="button blue uppercase right mobile-left js-form-submit" id=
+              "ss-submit" name="submit" type="submit" value="Join">
+            </div>
+          </form>
+        </div>
+      </div>
+      <ul class="google-nav">
+        <li>
+          <a href="https://www.google.com"><img alt="Google" onerror=
+          "this.src='../nexus/new/images/google-logo.png'; this.onerror=null;" src=
+          "../nexus/new/images/google-logo.svg"></a>
+        </li>
+        <li class="mobile-is-hidden">
+          <a href="https://www.android.com">Android</a>
+        </li>
+        <li class="mobile-is-hidden">
+          <a href="https://www.google.com/intl/en/policies/privacy/">Privacy &amp; Terms</a>
+        </li>
+        <li class="mobile-is-hidden">
+          <a href="https://support.google.com/nexus/?hl=en#topic=3415518">Support</a>
+        </li>
+        <li>
+          <label><select onchange=
+          "var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};">
+            <option value="/intl/en_au/nexus/">
+              Australia – English
+            </option>
+            <option value="/intl/nl_be/nexus/">
+              België – Nederlands
+            </option>
+            <option value="/intl/fr_be/nexus/">
+              Belgique – Français
+            </option>
+            <option value="/intl/en_ca/nexus/">
+              Canada – English
+            </option>
+            <option value="/intl/fr_ca/nexus/">
+              Canada – Français
+            </option>
+            <option value="/intl/da_dk/nexus/">
+              Danmark – Dansk
+            </option>
+            <option value="/intl/de_de/nexus/">
+              Deutschland – Deutsch
+            </option>
+            <option value="/intl/es_es/nexus/">
+              España – Español
+            </option>
+            <option value="/intl/fr_fr/nexus/">
+              France – Français
+            </option>
+            <option value="/intl/en_in/nexus/">
+              India – English
+            </option>
+            <option value="/intl/id_id/nexus/">
+              Indonesia – Bahasa Indonesia
+            </option>
+            <option value="/intl/en_ie/nexus/">
+              Ireland – English
+            </option>
+            <option value="/intl/it_it/nexus/">
+              Italia – Italiano
+            </option>
+            <option value="/intl/en_my/nexus/">
+              Malaysia – English
+            </option>
+            <option value="/intl/es-419_mx/nexus/">
+              México – Español (Latinoamérica)
+            </option>
+            <option value="/intl/nl_nl/nexus/">
+              Nederland – Nederlands
+            </option>
+            <option value="/intl/en_nz/nexus/">
+              New Zealand – English
+            </option>
+            <option value="/intl/no_no/nexus/">
+              Norge – Norsk
+            </option>
+            <option value="/intl/de_at/nexus/">
+              Österreich – Deutsch
+            </option>
+            <option value="/intl/pt-PT_pt/nexus/">
+              Portugal – Português (Portugal)
+            </option>
+            <option value="/intl/de_ch/nexus/">
+              Schweiz – Deutsch
+            </option>
+            <option value="/intl/en_sg/nexus/">
+              Singapore – English
+            </option>
+            <option value="/intl/fr_ch/nexus/">
+              Suisse – Français
+            </option>
+            <option value="/intl/fi_fi/nexus/">
+              Suomi – Suomi
+            </option>
+            <option value="/intl/sv_se/nexus/">
+              Sverige – Svenska
+            </option>
+            <option value="/intl/it_ch/nexus/">
+              Svizzera – Italiano
+            </option>
+            <option value="/intl/en_uk/nexus/">
+              United Kingdom – English
+            </option>
+            <option selected value="/intl/en_us/nexus/">
+              United States – English
+            </option>
+            <option value="/intl/th_th/nexus/">
+              ไทย – ไทย
+            </option>
+            <option value="/intl/zh-CN_cn/nexus/">
+              中国 – 中文（简体中文）
+            </option>
+            <option value="/intl/zh-TW_tw/nexus/">
+              台灣 – 中文（繁體中文）
+            </option>
+            <option value="/intl/ja_jp/nexus/">
+              日本 – 日本語
+            </option>
+            <option value="/intl/zh-TW_hk/nexus/">
+              香港 – 中文（繁體中文）
+            </option>
+          </select></label>
+        </li>
+        <li class="g-plus">
+          <div class="g-plusone" data-annotation="none"></div>
+        </li>
+      </ul>
+    </footer>
+    <div class="lightbox js-lightbox">
+      <div class="lightbox-close js-lightbox-close"></div><img alt="" class=
+      "lightbox-image js-lightbox-image" src="">
+    </div><script src="//www.gstatic.com/external_hosted/gsap/TweenMax.min.js">
+</script> <script src="//www.gstatic.com/external_hosted/hammerjs/v2_0_2/hammer.min.js">
+</script> <script src="../nexus/new/js/site.min.js">
+</script> <script async="" defer src="//apis.google.com/js/platform.js">
+</script> <script>
+var page = new nexus.SetUp('index');
+    </script>
+  </body>
+</html>

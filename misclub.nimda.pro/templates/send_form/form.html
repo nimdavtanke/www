@@ -1,0 +1,31 @@
+ <div align="center"><div class="footer" style="width:400px;"><div class="br"><div class="bl"><div class="tr"><div class="tl">
+
+
+
+<div style="" align="left">
+<div align="center" style="color:#800000; font-size:11pt;">$error</div>
+<form method="POST" name="order_form" style="padding:10px; color:#ffffff;">
+<input type="hidden" name="send" value="true">
+<table border="0" cellpadding="3" cellspacing="0" class="order_form_table">
+<tr>
+<td align="left">Ваше имя:</td><td align="right"><input type="text" value="$_POST[order_name]" name="order_name"></td>
+</tr>
+<tr>
+<td align="left">Ваш телефон:</td><td  align="right"><input type="hidden" value="Ваш телефон" name="order_phone_required"><input type="text" value="$_POST[order_phone]" name="order_phone"></td>
+</tr>
+<tr>
+<td align="left">Ваш email <span class="required">*</span>:</td><td  align="right"><input type="hidden" value="Ваш email" name="order_email_required"><input type="text" value="$_POST[order_email]" name="order_email"></td>
+</tr>
+<tr>
+<td colspan="2" align="left">Ваш вопрос:</td></tr>
+<tr><td colspan="2" align="left"><textarea name="order_description" style="width:350px; height:100px;"  onkeyup="if(this.scrollHeight >=this.offsetHeight) { this.style.height = this.scrollHeight+15; }">$_POST[order_description]</textarea></td>
+</tr>
+<tr>
+<td colspan="2" align="left">Введите код, который Вы видите на картинке:<br />
+<img src="captcha.php" border="1" align="left" hspace="5"><input type="text" name="order_captha" style="font-size:22px; width:auto;" size="10"></td></tr>
+<tr>
+<td colspan="2" align="right"><a href="#" onclick="document.order_form.submit(); return false;" style="font-weight:bold; color:#ffffff;">отправить</a></td></tr>
+</table>
+</form>
+</div>
+</div>    </div></div></div></div></div>

@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html class="google" itemscope itemtype="http://schema.org/WebPage" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      How Loon Works – Project Loon – Google
+    </title>
+    <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    </script>
+    <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport">
+    <meta content=
+    "Learn about how Project Loon balloons are designed, how they navigate through the stratosphere, and how they deliver Internet to specialized Internet antennae down on Earth."
+    name="description">
+    <script>
+    WebFontConfig={google:{families:["Karla:400,400italic,700,700italic"]},custom:{families:["SteelfishLtRegular"],urls:["/loon/css/fonts.css"]}};(function(){var wf=document.createElement("script");wf.src=("https:"==document.location.protocol?"https":"http")+"://ajax.googleapis.com/ajax/libs/webfont/1.4.2/webfont.js";wf.type="text/javascript";wf.async="true";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(wf,s)})();
+    </script>
+    <link href="../../loon/css/default.css" rel="stylesheet">
+    <meta content="Project Loon" itemprop="name">
+    <meta content="Balloon-Powered Internet For Everyone" itemprop="description">
+    <meta content="../../loon/images/snippet.png" itemprop="image">
+    <link href="https://plus.google.com/+ProjectLoon" rel="publisher">
+    <script src="//www.google.com/js/google.js">
+    </script>
+    <script>
+    (function() {window.loonTracker=new gweb.analytics.AutoTrack({profile:"UA-40554998-1",cookiePath:location.pathname.match(/((\/intl\/[\w\-]+)?\/loon\/)/)[0]});})()
+    </script>
+    <style>
+    div.c1 {padding-top: 0;}
+    </style>
+  </head>
+  <body class="how">
+    <div id="stars" role="presentation">
+      <div id="stars-1"></div>
+      <div id="stars-2"></div>
+    </div>
+    <div class="header" role="banner">
+      <h1>
+        <a data-g-action="navigate" data-g-event="Global Nav" data-g-label="Project Loon" href=
+        "../../loon/">Project Loon</a>
+      </h1><a class="brand" data-g-action="click" data-g-event="Global Nav" data-g-label="Google"
+      href="/"><img alt="Google" src="../../loon/images/google-logo.png"></a>
+      <div class="nav" role="navigation">
+        <ul class="sitemap">
+          <li data-g-action="navigate" data-g-event="Global Nav" data-g-label="What is Loon?">
+            <a href="../../loon/">What is Loon?</a>
+          </li>
+          <li class="active" data-g-action="navigate" data-g-event="Global Nav" data-g-label=
+          "How Loon works">
+            <em>How Loon works</em>
+          </li>
+          <li data-g-action="navigate" data-g-event="Global Nav" data-g-label=
+          "Where Loon is going">
+            <a href="../../loon/where/">Where Loon is going</a>
+          </li>
+        </ul>
+        <ul class="about">
+          <li>
+            <a data-g-action="navigate" data-g-event="Global Nav" data-g-label="About Google" href=
+            "/intl/en/about/">About Google</a>
+          </li>
+          <li>
+            <a data-g-action="navigate" data-g-event="Global Nav" data-g-label=
+            "Privacy &amp; Terms" href="/intl/en/policies/">Privacy &amp; Terms</a>
+          </li>
+          <li data-g-action="navigate" data-g-event="Global Nav" data-g-label="FAQ">
+            <a href="../../loon/faq/">FAQ</a>
+          </li>
+          <li data-g-action="navigate" data-g-event="Global Nav" data-g-label="Careers">
+            <a href="../../loon/careers/">Careers</a>
+          </li>
+        </ul>
+        <div class="langs">
+          <div class="selected">
+            English (US)
+          </div>
+          <ul>
+            <li>
+              <a href="//www.google.co.nz/loon/how/">English (New Zealand)</a>
+            </li>
+            <li>
+              <a href="//www.google.com/intl/es-419/loon/how/">Español</a>
+            </li>
+            <li>
+              <a href="//www.google.com/intl/pt-BR/loon/how/">Português</a>
+            </li>
+          </ul><select onchange=
+          "var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};">
+            <option selected value="//www.google.com/loon/how/">
+              English (US)
+            </option>
+            <option value="//www.google.co.nz/loon/how/">
+              English (New Zealand)
+            </option>
+            <option value="//www.google.com/intl/es-419/loon/how/">
+              Español
+            </option>
+            <option value="//www.google.com/intl/pt-BR/loon/how/">
+              Português
+            </option>
+          </select>
+        </div>
+      </div>
+    </div>
+    <div class="main" role="main">
+      <div class="section c1" id="move">
+        <h2>
+          How Loon flies
+        </h2>
+        <div class="tabs tabs-x">
+          <div class="tabs-nav">
+            <ul>
+              <li>
+                <a data-g-action="click" data-g-event="How Loon Moves" data-g-label="Navigation"
+                href="#navigation">Navigating with the wind</a>
+              </li>
+              <li>
+                <a data-g-action="click" data-g-event="How Loon Moves" data-g-label="Stratosphere"
+                href="#stratosphere">Stratosphere</a>
+              </li>
+            </ul>
+          </div>
+          <div class="tabs-contents">
+            <div class="tabs-content" id="navigation">
+              <h3>
+                Navigating with the wind
+              </h3>
+              <p>
+                <img alt="" src="../images/illustration-navigation.png">
+              </p>
+              <p>
+                Project Loon balloons travel approximately 20 km above the Earth’s surface in the
+                stratosphere. Winds in the stratosphere are stratified, and each layer of wind
+                varies in speed and direction. Project Loon uses software algorithms to determine
+                where its balloons need to go, then moves each one into a layer of wind blowing in
+                the right direction. By moving with the wind, the balloons can be arranged to form
+                one large communications network.
+              </p>
+            </div>
+            <div class="tabs-content" id="stratosphere">
+              <h3>
+                Stratosphere
+              </h3>
+              <p>
+                <img alt="" src="../images/illustration-stratosphere.png">
+              </p>
+              <p>
+                Situated on the edge of space, between 10 km and 60 km in altitude, the
+                stratosphere presents unique engineering challenges: air pressure is 1% that at sea
+                level, and this thin atmosphere offers less protection from UV radiation and
+                dramatic temperature swings, which can reach as low as -80°C. By carefully
+                designing the balloon envelope to withstand these conditions, Project Loon is able
+                to take advantage of the stratosphere’s steady winds and remain well above weather
+                events, wildlife and airplanes.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="section" id="design">
+        <h2>
+          How Loon is designed
+        </h2>
+        <div class="tabs tabs-x">
+          <div class="tabs-nav">
+            <ul>
+              <li>
+                <a data-g-action="click" data-g-event="How Loon’s Designed" data-g-label="Envelope"
+                href="#envelope">Envelope</a>
+              </li>
+              <li>
+                <a data-g-action="click" data-g-event="How Loon’s Designed" data-g-label=
+                "Solar Panels" href="#solar">Solar panels</a>
+              </li>
+              <li>
+                <a data-g-action="click" data-g-event="How Loon’s Designed" data-g-label=
+                "Equipment" href="#equipment">Electronics</a>
+              </li>
+            </ul>
+          </div>
+          <div class="tabs-contents">
+            <div class="tabs-content" id="envelope">
+              <h3>
+                Envelope
+              </h3>
+              <p>
+                <img alt="" src="../images/illustration-envelope.png">
+              </p>
+              <p>
+                The inflatable part of the balloon is called a balloon envelope. A well-made
+                balloon envelope is critical for allowing a balloon to last around 100 days in the
+                stratosphere. Loon’s balloon envelopes are made from sheets of polyethylene
+                plastic, and they measure fifteen meters wide by twelve meters tall when fully
+                inflated. When a balloon is ready to be taken out of service, gas is released from
+                the envelope to bring the balloon down to Earth in a controlled descent. In the
+                unlikely event that a balloon drops too quickly, a parachute attached to the top of
+                the envelope is deployed.
+              </p>
+            </div>
+            <div class="tabs-content" id="solar">
+              <h3>
+                Solar panels
+              </h3>
+              <p>
+                <img alt="" src="../images/illustration-solararray.png">
+              </p>
+              <p>
+                Each balloon’s electronics are powered by an array of solar panels. The solar array
+                is a flexible plastic laminate supported by a light-weight aluminum frame. It uses
+                high efficiency monocrystalline solar cells. The solar array is mounted at a steep
+                angle to effectively capture sunlight on short winter days at higher latitudes. The
+                array is divided into two sections facing in opposite directions, allowing us to
+                capture energy in any orientation as the balloons spin slowly in the wind. The
+                panels produce approximately 100 Watts of power in full sun, which is enough to
+                keep Loon’s electronics running while also charging a battery for use at night. By
+                moving with the wind and charging in the sun, Project Loon is able to power itself
+                using entirely renewable energy sources.
+              </p>
+            </div>
+            <div class="tabs-content" id="equipment">
+              <h3>
+                Electronics
+              </h3>
+              <p>
+                <img alt="" src="../images/illustration-equipment.png">
+              </p>
+              <p>
+                A small box containing the balloon’s electronics hangs underneath the inflated
+                envelope, like the basket carried by a hot air balloon. This box contains circuit
+                boards that control the system, radio antennas to communicate with other balloons
+                and with Internet antennas on the ground, and lithium ion batteries to store solar
+                power so the balloons can operate throughout the night.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="section" id="connect">
+        <h2>
+          How Loon connects
+        </h2>
+        <p>
+          <img alt="" src="../images/illustration-internet.png">
+        </p>
+        <p>
+          Each balloon can provide connectivity to a ground area about 40 km in diameter using a
+          wireless communications technology called LTE. To use LTE, Project Loon partners with
+          telecommunications companies to share cellular spectrum so that people will be able to
+          access the Internet everywhere directly from their phones and other LTE-enabled devices.
+          Balloons relay wireless traffic from cell phones and other devices back to the global
+          Internet using high-speed links.
+        </p>
+      </div>
+      <div class="section" id="scale">
+        <h2>
+          Scaling up
+        </h2>
+        <div class="video">
+          <iframe src=
+          "https://www.youtube.com/embed/HOndhtfIXSY?modestbranding=1&amp;rel=0&amp;showinfo=0&amp;autohide=1">
+          </iframe>
+        </div>
+        <p>
+          In this video, Project Lead Mike Cassidy talks us through the progress the team has made
+          towards creating and managing a balloon network at scale and making balloon-powered
+          Internet for all a reality.
+        </p>
+      </div>
+      <div class="section" id="more">
+        <h2>
+          Still curious?
+        </h2>
+        <p>
+          Learn more about how Loon works on our <a href=
+          "https://plus.google.com/+ProjectLoon">Google+ page</a>. Share your questions with
+          #AskAway.
+        </p>
+      </div>
+    </div>
+    <div class="footer" role="contentinfo">
+      <ul class="about">
+        <li>
+          <a data-g-action="click" data-g-event="Footer" data-g-label="About Google" href=
+          "/intl/en/about/">About Google</a>
+        </li>
+        <li>
+          <a data-g-action="click" data-g-event="Footer" data-g-label="Privacy &amp; Terms" href=
+          "/intl/en/policies/">Privacy &amp; Terms</a>
+        </li>
+        <li>
+          <a data-g-action="navigate" data-g-event="Footer" data-g-label="FAQ" href=
+          "../../loon/faq/">FAQ</a>
+        </li>
+        <li>
+          <a data-g-action="navigate" data-g-event="Footer" data-g-label="Careers" href=
+          "../../loon/careers/">Careers</a>
+        </li>
+      </ul>
+      <ul class="social">
+        <li>
+          <a data-g-action="social" data-g-event="Footer" data-g-label="Follow us on Google+" href=
+          "https://plus.google.com/+ProjectLoon" rel="publisher" target="_blank">Follow us on
+          Google+</a>
+        </li>
+        <li>
+          <script src="//apis.google.com/js/platform.js">
+          {
+      lang: 'en',
+      parsetags: 'explicit'
+    }
+          </script> <span class="g-plus" id="plus-share-httpwwwgooglecomloon"></span> 
+          <script>
+          (function() {
+    var href = 'http://www.google.com/loon' ||
+               window['location']['protocol'] + '//' +
+               window['location']['host'] + window['location']['pathname'];
+
+    gapi['plus']['render']('plus-share-httpwwwgooglecomloon', {
+      'action': 'share',
+      'href': href,
+      'height': 20,
+      'annotation': 'none'
+    });
+  })();
+          </script>
+        </li>
+      </ul>
+    </div>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js">
+    </script> 
+    <script src="../../loon/js/main.min.js">
+    </script> 
+    <script src="https://apis.google.com/js/client.js?onload=googleApiClientReady">
+    </script>
+  </body>
+</html>

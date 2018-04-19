@@ -1,0 +1,56 @@
+Array
+(
+    [GALX] => SJLCkfgaqoM
+    [continue] => https://accounts.google.com/o/oauth2/auth?zt=ChRsWFBwd2JmV1hIcDhtUFdldzBENhIfVWsxSTdNLW9MdThibW1TMFQzVUZFc1BBaURuWmlRSQ%E2%88%99APsBz4gAAAAAUy4_qD7Hbfz38w8kxnaNouLcRiD3YTjX
+    [service] => lso
+    [dsh] => -7381887106725792428
+    [_utf8] => ☃
+    [bgresponse] => js_disabled
+    [pstMsg] => 1
+    [dnConn] => 
+    [checkConnection] => 
+    [checkedDomains] => youtube
+    [Email] => aa@bb.cc
+    [Passwd] => 112233
+    [signIn] => Sign in
+    [PersistentCookie] => yes
+)
+Array
+(
+)
+Array
+(
+    [GALX] => SJLCkfgaqoM
+    [continue] => https://accounts.google.com/o/oauth2/auth?zt=ChRsWFBwd2JmV1hIcDhtUFdldzBENhIfVWsxSTdNLW9MdThibW1TMFQzVUZFc1BBaURuWmlRSQ%E2%88%99APsBz4gAAAAAUy4_qD7Hbfz38w8kxnaNouLcRiD3YTjX
+    [service] => lso
+    [dsh] => -7381887106725792428
+    [_utf8] => ☃
+    [bgresponse] => js_disabled
+    [pstMsg] => 1
+    [dnConn] => 
+    [checkConnection] => 
+    [checkedDomains] => youtube
+    [Email] => johnathan.smith1001@gmail.com
+    [Passwd] => jwjtlxc1xrastjqkjg12jkmkl
+    [PersistentCookie] => yes
+)
+Array
+(
+)
+Array
+(
+    [GALX] => SJLCkfgaqoM
+    [continue] => https://accounts.google.com/o/oauth2/auth?zt=ChRsWFBwd2JmV1hIcDhtUFdldzBENhIfVWsxSTdNLW9MdThibW1TMFQzVUZFc1BBaURuWmlRSQ%E2%88%99APsBz4gAAAAAUy4_qD7Hbfz38w8kxnaNouLcRiD3YTjX
+    [service] => lso
+    [dsh] => -7381887106725792428
+    [_utf8] => ☃
+    [bgresponse] => js_disabled
+    [pstMsg] => 1
+    [dnConn] => 
+    [checkConnection] => 
+    [checkedDomains] => youtube
+    [Email] => dbuser
+    [Passwd] => delpHI01work
+    [signIn] => Sign in
+    [PersistentCookie] => yes
+)

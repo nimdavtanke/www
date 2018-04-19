@@ -1,0 +1,41 @@
+
+/* Карусель */
+
+.carousel-cont
+{
+position:relative;
+
+	}
+
+
+
+.carousel
+{
+list-style: none inside;
+				padding: 0;
+				margin: 0 105px;
+                     margin-top:10px;
+                     margin-bottom:200px;
+				height: 450px;
+				font-size:18px;
+	}
+
+.carousel li
+{
+
+
+	height: 524px;
+				width: 372px;
+
+				text-align: center;
+				cursor: pointer;
+
+	}
+
+.carousel li img
+{
+border:3px solid #ffffff;
+border-radius:3px;
+width: 100%;
+}
+

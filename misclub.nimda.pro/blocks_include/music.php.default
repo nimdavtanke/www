@@ -1,0 +1,6 @@
+<?
+$music = "";
+if ($m_id==$options['index_id']){
+$music = "swfobject.embedSWF(\"1.swf\", \"music\", \"37\", \"36\", \"9.0.0\", false, {},  {\"wmode\" : \"transparent\"}, '' );";
+}
+?>

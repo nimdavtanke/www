@@ -1,0 +1,145 @@
+.main_block
+{
+  background: #e7e9ed none repeat scroll 0 0;
+    max-width: 100%;
+    min-width: 1000px;
+    padding-bottom: 60px;
+    padding-top: 60px;
+    position: relative;
+}
+
+#head {
+height: 193px;
+    margin: 15px auto 0;
+    width: 1000px; 
+}
+
+.venzel {
+background: rgba(0, 0, 0, 0) url("/images/venzel.png") no-repeat scroll center 0;
+    height: 93px;
+}
+
+.line_niz {
+ background: rgba(0, 0, 0, 0) url("/images/line_niz.png") repeat-x scroll center 0;
+    height: 93px;
+    margin-top: -5px;
+}
+
+.logotip {
+float: left;
+}
+
+.main_menu_div {
+    background: black none repeat scroll 0 0;
+    float: right;
+    height: 34px;
+    margin-left: 0;
+    margin-right: 0;
+    position: relative;
+}
+
+
+#knopki {
+ margin: 0 auto;
+    text-align: center;
+    width: 1000px;
+}
+#line {
+background: rgba(0, 0, 0, 0) url("/images/line_niz.png") repeat-x scroll 0 0;
+    float: left;
+    height: 15px;
+    position: relative;
+    top: -4px;
+    width: 100%;
+}
+.content_girl {
+   margin: 0 auto;
+    width: 1000px;
+}
+.logo_girl {
+color: #f1bb4a;
+text-align: center;
+    float: left;
+    font-family: font;
+    font-size: 24px;
+    margin-top: 81px;
+    text-transform: uppercase;
+}
+#girl_head {
+background: rgba(0, 0, 0, 0) url("/images/girl.jpg") repeat scroll center center;
+    height: 461px;
+}
+
+
+.main_menu_div .logo
+{
+position:absolute;
+left:-231px;
+top:-51px;
+}
+
+.main_width
+{
+  margin: 0 auto;
+    padding-top: 5px;
+    position: relative;
+    text-align: left;
+    width: 1000px;
+}
+#main_menu_niz {
+   float: right;
+    margin-top: -32px;
+    width: 200px;
+}
+
+#main_menu_niz li {
+padding-bottom: 10px;
+}
+
+.foot {
+ clear: both;
+    color: #ccc;
+    text-align: center;
+}
+
+.webgorod
+{
+float:right;
+margin-left:10px;
+font-size:12px;
+}
+
+.webgorod img
+{
+margin-right:5px;
+}
+
+#music
+{
+position:absolute;
+right:30px;
+top:-50px;
+}
+
+
+.price-table td
+{
+padding:5px;
+font-size:18px;
+             border-bottom:1px solid #000000;
+}
+
+.price-table td.header
+{
+background:rgb(196, 23, 29);
+color:#ffffff;
+font-weight:bold;
+}
+
+@font-face{
+font-family: font;
+src: url(/f/AGFRIQR.eot),
+url(/f/AGFRIQR.otf),
+url(/f/AGFRIQR.ttf),
+url(/f/AGFRIQR.woff);
+}

@@ -1,0 +1,88 @@
+
+.panel
+{
+position:fixed;
+right:10px;
+top:100px;
+
+width:50px;
+text-align:left;
+background:#c4171d;
+z-index:1000;
+}
+
+.panel .close_panel
+{
+background:#c4171d;
+color:#ffffff;
+position:absolute;
+width:16px;
+height:16px;
+font-weight:bold;
+top:-17px;
+right:0px;
+text-align:center;
+cursor:pointer;
+}
+
+.panel .btns{
+
+list-style:none inside;
+                     margin:0px;
+                     padding:0px;
+}
+
+.panel .btns li
+{
+
+ text-align:center;
+ position:relative;
+ cursor:pointer;
+}
+
+.panel .btns li.divider
+{
+height:1px;
+background:#ffffff;
+padding:0px;
+margin:0px;
+}
+
+.panel .btns li:hover
+{
+background:url(/images/design/bg_black.png) right;
+}
+
+.panel .btns li .comment
+{
+
+background:url(/images/design/bg_black.png) left;
+position:absolute;
+border-right:2px solid #eceaea;
+right:50px;
+white-space:nowrap;
+text-align:left;
+font-size:18px;
+color:#ffffff;
+font-family: Tahoma;
+height:49px;
+
+width:0px;
+overflow:hidden;
+}
+
+.panel .btns li .comment .padding
+{
+padding-left:25px;
+padding-right:15px;
+padding-top:2px;
+padding-bottom:10px;
+}
+
+.panel .btns li .comment .padding_one
+{
+padding-left:25px;
+padding-right:15px;
+padding-top:15px;
+padding-bottom:10px;
+}
