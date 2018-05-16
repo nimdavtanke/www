@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another site](http://spam.nimda.pro).
 
 There should be whitespace between paragraphs.
 
